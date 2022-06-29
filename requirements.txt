@@ -1,0 +1,7 @@
+django
+psutil
+GPUtil
+django-silk
+datetime
+py-cpuinfo
+mysqlclient
